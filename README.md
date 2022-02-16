@@ -1,1 +1,1 @@
-This is MERN Memories server
+# MERN Memories server
