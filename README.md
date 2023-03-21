@@ -9,7 +9,7 @@ It's a simple social media website that allows users to create, read, update and
 delete posts with text, images and hashtags. Users can also like posts.
 
 ## Screenshots:
-![Screenshot](/src/images/MERNmemories.jpg?raw=true "Screenshot")
+![Screenshot](/MERNmemories.jpg?raw=true "Screenshot")
 
 Setup:
 - run ```npm i && npm start```
